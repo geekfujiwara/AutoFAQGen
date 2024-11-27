@@ -19,8 +19,7 @@ https://github.com/user-attachments/assets/70c1c59f-834f-400f-9fa6-e9f0ffbc6be6
 
 ## アーキテクチャ
 
-![image](https://github.com/user-attachments/assets/3b71f08b-e3d7-4f4f-a1a1-9da14441f63e)
-
+![image](https://github.com/user-attachments/assets/63742593-d936-4455-9df0-f15da86c9004)
 
 ## インポート方法
 ソリューションはリリースから取得できます。
