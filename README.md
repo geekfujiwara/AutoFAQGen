@@ -12,7 +12,7 @@
 https://github.com/user-attachments/assets/70c1c59f-834f-400f-9fa6-e9f0ffbc6be6
 
 >[!Note]
->利用したなどの感想やコメント、ご要望などございましたらギークフジワラのXまでお願いいたします！
+>利用したなどの感想やコメント、ご要望などございましたら[ギークフジワラのX](https://x.com/geekfujiwara/status/1861684098676465802)までお願いいたします！
 
 ## 前提条件
 * Power Apps Premium ライセンスが必要です。
