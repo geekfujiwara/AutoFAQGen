@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/70c1c59f-834f-400f-9fa6-e9f0ffbc6be6
 
 ## インポート方法
 
-ソリューションは[リリース](https://github.com/geekfujiwara/AutoFAQGen/releases/tag/AutoFAQGen)から取得できます。
+ソリューションは[リリース](https://github.com/geekfujiwara/AutoFAQGen/releases)から取得できます。
 
 入手したソリューションはPower Apps 作成者ポータルのソリューション画面からインポートを選択して、Zip形式のままアップロード、インポートを実行します。
 
